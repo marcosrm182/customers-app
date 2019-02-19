@@ -12,7 +12,7 @@ const CustomerListItem = ({ name, editAction, delAction, urlPath }) => {
                     <link to={`${props.urlPath}${dni}/edit`}>{editAction}</link>
                 </div>
                 <div className="field">
-                    <link to={`${props.urlPath}/del`}>{delAction}</link>
+                    <link to={`${props.urlPath}${dni}/del`}>{delAction}</link>
                 </div>
             </div>
             
