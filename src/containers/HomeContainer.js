@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { withRouter } from 'react-router-dom';
 import AppFrame from './../components/AppFrame';
-import CustomerActions from './../components/CustomerActions';
+import CustomersActions from '../components/CustomersActions';
 
 class HomeContainer extends Component {
     
@@ -18,11 +18,11 @@ class HomeContainer extends Component {
                     body={
                         <div>
                             Esta es la pantalla inicial
-                            <CustomerActions>
+                            <CustomersActions>
                                 <button onClick={this.handleOnClick}>
                                     Listado de clientes  
                                 </button>
-                            </CustomerActions>
+                            </CustomersActions>
                         </div>
                     }>
                 </AppFrame>
@@ -30,9 +30,5 @@ class HomeContainer extends Component {
         );
     }
 }
-
-HomeContainer.propTypes = {
-
-};
 
 export default withRouter(HomeContainer);
