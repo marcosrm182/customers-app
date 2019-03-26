@@ -2,8 +2,8 @@
   "customers": [
     {
       "dni": "66000000",
-      "name": "JUAN PEREZ",
-      "age": 36,
+      "name": "Juan Perez Montolla",
+      "age": 40,
       "id": "27000000"
     },
     {
@@ -13,8 +13,8 @@
       "age": 35
     },
     {
-      "id": "33000000",
-      "dni": "33000000",
+      "id": "30000001",
+      "dni": "30000001",
       "name": "Marcos Rodriguez",
       "age": 32
     },
@@ -23,6 +23,12 @@
       "name": "NUEVO CLIENTE",
       "age": 34,
       "id": "ncLs4Ab"
+    },
+    {
+      "dni": "11000000",
+      "name": "Nuevo Cliente",
+      "age": 34,
+      "id": "0twypG0"
     }
   ],
   "posts": [
