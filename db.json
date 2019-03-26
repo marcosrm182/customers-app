@@ -1,19 +1,22 @@
 {
   "customers": [
     {
-        "dni": "27000000",
-        "name": "Juan Pezuño",
-        "age": 37 
+      "id": "27000000",
+      "dni": "27000000",
+      "name": "Juan Cordero",
+      "age": 37
     },
     {
-        "dni": "30000000",
-        "name": "Otro",
-        "age": 35
+      "id": "30000000",
+      "dni": "30000000",
+      "name": "Cliente Nuevo",
+      "age": 35
     },
     {
-        "dni": "33000000",
-        "name": "Marcos Rodriguez",
-        "age": 32
+      "id": "33000000",
+      "dni": "33000000",
+      "name": "Marcos Rodriguez",
+      "age": 32
     }
   ],
   "posts": [
