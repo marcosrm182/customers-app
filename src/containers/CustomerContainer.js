@@ -9,13 +9,18 @@ import CustomerData from './../components/CustomerData';
 
 class CustomerContainer extends Component {
     //<p>Datos del Cliente {this.props.customer.name}</p>
+
+    handleSubmit = values => {
+        console.log(JSON.stringify(values));
+    }
+
     renderBody = () => (
         <Route path="/customers/:dni/edit" children={
             ( { match } ) => {
                 const CustomerControl = match ? CustomerEdit : CustomerData
                 //Aki Don´t repeat Yourself
                 // Tipo de componente determinado en ejecución
-                return <CustomerControl {...this.props.customer} />
+                return <CustomerControl {...this.props.customer} onSubmit={this.handleSubmit}/>
             }
         } />
     )
