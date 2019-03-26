@@ -28,6 +28,10 @@ class CustomerContainer extends Component {
         this.props.history.goBack();
     }
 
+    handleSubmitsuccess = () => {
+        this.props.history.goBack();
+    }
+
     renderBody = () => (
         <Route path="/customers/:dni/edit" children={
             ( { match } ) => {
@@ -37,6 +41,7 @@ class CustomerContainer extends Component {
                     // Tipo de componente determinado en ejecución
                     return <CustomerControl {...this.props.customer}
                                 onSubmit={this.handleSubmit}
+                                onSubmitSuccess={this.handleSubmitsuccess}
                                 onBack={this.handlOnBack} />
                 }
 
