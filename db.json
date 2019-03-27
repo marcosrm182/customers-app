@@ -29,6 +29,12 @@
       "name": "Nuevo Cliente",
       "age": 34,
       "id": "0twypG0"
+    },
+    {
+      "id": "HNmjj0p",
+      "dni": "489956775",
+      "name": "CLIENTE NUEVO 27",
+      "age": 16
     }
   ],
   "posts": [
