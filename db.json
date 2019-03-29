@@ -17,6 +17,12 @@
       "dni": "123344",
       "name": "NUEVO 02",
       "age": 13
+    },
+    {
+      "id": "qAxe0vG",
+      "dni": "123678",
+      "name": "CUSTOMER 01",
+      "age": 17
     }
   ],
   "posts": [
