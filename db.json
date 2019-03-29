@@ -25,16 +25,34 @@
       "id": "ncLs4Ab"
     },
     {
-      "dni": "11000000",
-      "name": "Nuevo Cliente",
-      "age": 34,
-      "id": "0twypG0"
+      "id": "9Omw0Sl",
+      "dni": "1234",
+      "name": "NUEVO 01",
+      "age": 3
     },
     {
-      "id": "HNmjj0p",
-      "dni": "489956775",
-      "name": "CLIENTE NUEVO 27",
-      "age": 16
+      "id": "tj9Ixes",
+      "dni": "123344",
+      "name": "NUEVO 02",
+      "age": 13
+    },
+    {
+      "id": "jilekx7",
+      "dni": "1234",
+      "name": "NUEVO 03",
+      "age": 12
+    },
+    {
+      "id": "5C5LMW3",
+      "dni": "123344",
+      "name": "NUEVO 04",
+      "age": 12
+    },
+    {
+      "id": "we3bbKz",
+      "dni": "1234565",
+      "name": "NUEVO 05",
+      "age": 13
     }
   ],
   "posts": [
