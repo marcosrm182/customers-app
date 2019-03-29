@@ -1,28 +1,10 @@
 {
   "customers": [
     {
-      "dni": "66000000",
-      "name": "JUAN PEREZ MON",
-      "age": 40,
-      "id": "27000000"
-    },
-    {
-      "id": "30000000",
-      "dni": "50000000",
-      "name": "Cliente Nuevo Tres",
-      "age": 35
-    },
-    {
       "id": "30000001",
       "dni": "30000001",
       "name": "Marcos Rodriguez",
       "age": 17
-    },
-    {
-      "dni": "11000001",
-      "name": "NUEVO CLIENTE",
-      "age": 34,
-      "id": "ncLs4Ab"
     },
     {
       "id": "9Omw0Sl",
@@ -35,18 +17,6 @@
       "dni": "123344",
       "name": "NUEVO 02",
       "age": 13
-    },
-    {
-      "id": "jilekx7",
-      "dni": "1234",
-      "name": "NUEVO 03",
-      "age": 12
-    },
-    {
-      "id": "5C5LMW3",
-      "dni": "123348",
-      "name": "NUEVO 04",
-      "age": 12
     }
   ],
   "posts": [

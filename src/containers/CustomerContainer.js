@@ -38,9 +38,11 @@ class CustomerContainer extends Component {
         this.props.history.goBack();
     }
 
-    handleOnDelete = () => {
-        console.log("handleOnDelete");
-        this.props.deleteCustomer("we3bbKz")
+    handleOnDelete = id => {
+        console.log(`handleOnDelete ${id}`);
+        this.props.deleteCustomer(id).then(v => {
+            this.props.history.goBack();
+        });
     }
 
     renderCustomerControl = (isEdit, isDelete) => {
