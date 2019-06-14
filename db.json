@@ -1,19 +1,25 @@
 {
   "customers": [
     {
-        "dni": "27000000",
-        "name": "Juan Pezuño",
-        "age": 37 
+      "id": "9Omw0Sl",
+      "dni": "47994566V",
+      "name": "OCASIONPLUS",
+      "age": 34,
+      "isDeleteAllow": false
     },
     {
-        "dni": "30000000",
-        "name": "Otro",
-        "age": 35
+      "id": "tj9Ixes",
+      "dni": "48998455V",
+      "name": "MARCOS RODRIGUEZ MORALES",
+      "age": 34,
+      "isDeleteAllow": false
     },
     {
-        "dni": "33000000",
-        "name": "Marcos Rodriguez",
-        "age": 32
+      "id": "qAxe0vG",
+      "dni": "43668411v",
+      "name": "CONTRATADO",
+      "age": 34,
+      "isDeleteAllow": false
     }
   ],
   "posts": [

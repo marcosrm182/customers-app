@@ -70,3 +70,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### `json-server --watch db.json --port 3001` run json-server
 
 This section has moved here: https://github.com/typicode/json-server
+
+### `node node-server.js` run node-server
