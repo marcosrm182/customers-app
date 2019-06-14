@@ -1,28 +1,25 @@
 {
   "customers": [
     {
-      "id": "30000001",
-      "dni": "30000001",
-      "name": "Marcos Rodriguez",
-      "age": 17
-    },
-    {
       "id": "9Omw0Sl",
-      "dni": "5838",
-      "name": "NUEVO 11",
-      "age": 3
+      "dni": "47994566V",
+      "name": "OCASIONPLUS",
+      "age": 34,
+      "isDeleteAllow": false
     },
     {
       "id": "tj9Ixes",
-      "dni": "123344",
-      "name": "NUEVO 02",
-      "age": 13
+      "dni": "48998455V",
+      "name": "MARCOS RODRIGUEZ MORALES",
+      "age": 34,
+      "isDeleteAllow": false
     },
     {
       "id": "qAxe0vG",
-      "dni": "123678",
-      "name": "CUSTOMER 01",
-      "age": 17
+      "dni": "43668411v",
+      "name": "CONTRATADO",
+      "age": 34,
+      "isDeleteAllow": false
     }
   ],
   "posts": [
