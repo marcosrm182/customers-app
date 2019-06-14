@@ -1,3 +1,5 @@
+## :)
+
 1. npm install
 
 2. `json-server --watch db.json --port 3001` run json-server
